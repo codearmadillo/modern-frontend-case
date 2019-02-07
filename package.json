@@ -1,0 +1,34 @@
+{
+  "name": "modern-frontend-case",
+  "version": "1.0.0",
+  "description": "\"# mfc\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiri-kralovec-eal/modern-frontend-case.git"
+  },
+  "author": "Jiri Kralovec <jiri0042@edu.eal.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiri-kralovec-eal/modern-frontend-case/issues"
+  },
+  "homepage": "https://github.com/jiri-kralovec-eal/modern-frontend-case#readme",
+  "dependencies": {
+    "gulp": "3.9.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "autoprefixer": "^9.4.7",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "gulp-util": "^3.0.8"
+  }
+}
